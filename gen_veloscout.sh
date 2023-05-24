@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rootURL="https://my-domain-where-the-cards-are-stored/"
+rootURL="https://github.com/fiddenmar/tricktaking/blob/main/veloscout/"
 cardDestFolder="veloscout"
 csvFileName="import.csv"
 

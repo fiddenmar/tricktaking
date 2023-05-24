@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rootURL="https://my-domain-where-the-cards-are-stored/"
+rootURL="https://github.com/fiddenmar/tricktaking/blob/main/modern_trick/"
 cardDestFolder="modern_trick"
 csvFileName="import.csv"
 
